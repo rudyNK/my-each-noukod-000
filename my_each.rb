@@ -1,7 +1,3 @@
-def my_each # put argument(s) here
-  # code here
-end
-
 list = ["ab", "cd", "ef"]
 
 def my_each(array)
